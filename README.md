@@ -15,7 +15,7 @@
 - 多客户端：支持 CLASH、SURGE、SING-BOX、LOON、QUANTUMULT X、V2RAY、Shadowrocket、STASH、NEKORAY、V2RAYNG
 - 应用唤醒：点按钮自动打开对应客户端
 - 自动识别：根据User-Agent自动返回对应格式
-- 多语言：支持中文和波斯语，根据浏览器语言自动切换
+- 多语言：支持中文和波斯语，根据浏览器语言自动切换  
 
 ## v3.0 更新
 
